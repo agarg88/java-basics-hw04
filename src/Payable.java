@@ -1,3 +1,4 @@
 interface Payable {
-  // TODO declare method here
+  public double getAverageMonthlySalary();
+  public int calculatePay();
 }
